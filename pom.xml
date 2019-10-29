@@ -205,7 +205,7 @@
       </dependency>
              
              <dependency>
-    <groupId>javax.servlet.jsp.jstl</groupId>
+    <groupId></groupId>
     <artifactId>jstl</artifactId>
     <version>0.0.0</version>
 </dependency>
