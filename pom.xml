@@ -204,11 +204,7 @@
         <scope>test</scope>
       </dependency>
              
-             <dependency>
-    <groupId></groupId>
-    <artifactId>jstl</artifactId>
-    <version>0.0.0</version>
-</dependency>
+             
              
     </dependencies>
   </dependencyManagement>
