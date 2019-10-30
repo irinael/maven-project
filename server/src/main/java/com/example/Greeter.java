@@ -1,13 +1,13 @@
 package com.example;
 
-
+  /**
+    javadoc comment
+    **/
 public class Greeter {
 
   
   public Greeter() {
-    /**
-    javadoc comment
-    **/
+  
 
   }
 
