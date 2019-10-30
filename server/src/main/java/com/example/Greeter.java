@@ -12,6 +12,7 @@ public class Greeter {
   }
 /**methode bonjour
 @return message coucou
+@param nom de la personne à saluer
 
 **/
   public final String greet(final String someone) {
