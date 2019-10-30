@@ -5,6 +5,9 @@ public class Greeter {
 
   
   public Greeter() {
+    /**
+    javadoc comment
+    **/
 
   }
 
