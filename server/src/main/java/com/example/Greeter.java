@@ -1,16 +1,16 @@
 package com.example;
 
   /**
-    javadoc comment
+    javadoc comment.
     **/
 public class Greeter {
 
-  /**constructeur**/
+  /**constructeur.**/
   public Greeter() {
   
 
   }
-/**methode bonjour
+/**methode bonjour.
 @return message coucou
 @param someone : nom de la personne à saluer
 
